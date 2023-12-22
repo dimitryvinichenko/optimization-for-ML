@@ -1,5 +1,6 @@
 # optimization-for-ML
 Final project on course
 
+WGAN training results with ExtraAdam:
 
-![WGAN traingin results with ExtraAdam](11730.png)
+![WGAN training results with ExtraAdam](11730.png)

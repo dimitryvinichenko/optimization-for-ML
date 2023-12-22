@@ -2,5 +2,4 @@
 Final project on course
 
 
-![WGAN traingin results with ExtraAdam] (11730.png)
-
+![WGAN traingin results with ExtraAdam](11730.png)
